@@ -84,7 +84,7 @@ PS: if it does not work, try using a different set of pronto codes. Codes were t
 Did a sample on tinkercad before doing actual, both pictures are included below (circuit view is abit messy due to quick and dirty wiring)
 
 Schematic view: <br>
-<img src="hardwareConnect.png" alt="Hardware connections" width="240" height="212"/><br>
+<img src="hardwareConnect.png" alt="Hardware connections" width="480" height="275"/><br>
 
 Actual circuit view: <br>
-<img src="circuitView.jpg" alt="Slower FPS" width="240" height="212"/><br>
+<img src="circuitView.jpg" alt="Slower FPS" width="480" height="640"/><br>
