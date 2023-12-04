@@ -1,8 +1,10 @@
 # samsungRemote
 
+
 ## Purpose
 
 This repo was created for SOR (School of Robotics) specifically for the Arduino IR remote lesson.
+
 
 ### Implementation
 
@@ -13,6 +15,7 @@ These hex formats provide a standardized way to represent infrared remote contro
 In addition to its prevalence, the Pronto hex format is known for its simplicity and ease of use. It consists of a series of hexadecimal values that encode the timing and modulation information necessary for a device to interpret and execute the corresponding command. This straightforward structure makes it accessible for both hobbyists and professionals involved in customizing remote control functions.
 
 One key advantage of the IR Pronto hex format is its versatility. It supports a wide range of remote control functions, from basic commands like power on/off and volume control to more advanced features specific to certain devices. This flexibility makes it a preferred choice for home automation enthusiasts, as it allows for the seamless integration of diverse electronics within a smart home ecosystem.
+
 
 ### Hexadecimal codes
 
@@ -74,3 +77,14 @@ The following hexadecimal codes below can be used with the https://github.com/Ar
 
 
 PS: if it does not work, try using a different set of pronto codes. Codes were tested on a samsung tv Q8 series
+
+
+### Hardware 
+
+Did a sample on tinkercad before doing actual, both pictures are included below (circuit view is abit messy due to quick and dirty wiring)
+
+Schematic view: <br>
+<img src="hardwareConnect.png" alt="Hardware connections" width="240" height="212"/><br>
+
+Actual circuit view: <br>
+<img src="circuitView.jpg" alt="Slower FPS" width="240" height="212"/><br>
